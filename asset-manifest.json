@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/exim-worx/static/css/main.a3e0aeff.css",
+    "main.js": "/exim-worx/static/js/main.f6a45f9e.js",
+    "static/js/787.006fcb26.chunk.js": "/exim-worx/static/js/787.006fcb26.chunk.js",
+    "static/media/contactus.jpg": "/exim-worx/static/media/contactus.d8ed3d7dd82a2693e153.jpg",
+    "static/media/products.png": "/exim-worx/static/media/products.b98fa271517315aa4ee1.png",
+    "static/media/valueproposition.png": "/exim-worx/static/media/valueproposition.40f6e31f2608448a643a.png",
+    "static/media/marketanddomains.png": "/exim-worx/static/media/marketanddomains.67e5cee654b3944a8798.png",
+    "static/media/businessmodel.jpg": "/exim-worx/static/media/businessmodel.2f1055497c1c2099ccf3.jpg",
+    "static/media/services.png": "/exim-worx/static/media/services.c20afaaef5039d2e1315.png",
+    "static/media/home.png": "/exim-worx/static/media/home.705e6c5a8ff7e83531ed.png",
+    "static/media/about.png": "/exim-worx/static/media/about.59ac56880b4ff5596f41.png",
+    "static/media/contactmessage.png": "/exim-worx/static/media/contactmessage.665896a36647d2edaf58.png",
+    "static/media/Exim-worx.jpeg": "/exim-worx/static/media/Exim-worx.42ec2f1c84895245483e.jpeg",
+    "static/media/smruti.jpeg": "/exim-worx/static/media/smruti.cf520dcf1ed2cbe974c4.jpeg",
+    "static/media/competitiveadvantage.jpg": "/exim-worx/static/media/competitiveadvantage.45685dc53cf15a26f071.jpg",
+    "static/media/shailesh.jpg": "/exim-worx/static/media/shailesh.64611683eadc10673806.jpg",
+    "index.html": "/exim-worx/index.html",
+    "main.a3e0aeff.css.map": "/exim-worx/static/css/main.a3e0aeff.css.map",
+    "main.f6a45f9e.js.map": "/exim-worx/static/js/main.f6a45f9e.js.map",
+    "787.006fcb26.chunk.js.map": "/exim-worx/static/js/787.006fcb26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e0aeff.css",
+    "static/js/main.f6a45f9e.js"
+  ]
+}
