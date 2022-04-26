@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    /* width: 100%; */
+    /* background-color: darkslateblue; */
+    /* background-color: orange; */
+    background-image: linear-gradient(blue, orange);
+    color: white;
+    padding: 40px;
+    /* margin-top: 10px */
+    /* text-align: center; */
+}
